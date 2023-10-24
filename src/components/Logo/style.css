@@ -1,0 +1,14 @@
+.logo {
+    display: flex;
+    font-size: 30px;
+    align-items: center;
+    
+
+}
+
+.logoSvg {
+    margin-right: 10px;
+    height: 50px;
+    width: 50px;
+    
+}
